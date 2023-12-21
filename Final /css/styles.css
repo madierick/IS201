@@ -1,0 +1,36 @@
+body{
+    background-image: url('https://garden.spoonflower.com/c/13966330/p/f/m/BiJSaQY7-ShGKyfZdnF7IeM4uojJfGZCrcHTEy1-wSZcqDqRv3IL/raja%20%7C%20light%20orange%20solid.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.tableauPlaceholder{
+    display:block;
+    margin: auto;
+    width: min-content;
+    text-align: center;
+}
+ol{
+ background-color: white
+}
+img{
+    display:block;
+    width:35%;
+    border: solid white 5px;
+    padding: 3px;
+    margin: auto;
+}
+.header{
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: cursive;
+    width: 100%;
+    text-align: center;
+    z-index: -1;
+    color: white;
+}
+.mainstuff{
+    color: black;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
